@@ -41,8 +41,7 @@ $hierarquia = array
                             )
                         )
                         //Termino: Sperviso de Pagamentos
-                    )
-                ),
+                    ),
                 //Termino: Gerente de Contas a Pagar
                 //Inicio: Gerente de Compras
                 array
@@ -67,7 +66,7 @@ $hierarquia = array
                 )
                 //Termino: Gerente de Compras
             )
-            //Termino: Diretor Financeiro
+          ),  //Termino: Diretor Financeiro
         )
     )
 );
